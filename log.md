@@ -8,3 +8,12 @@
 
 **Link de trabajo:** [referncia basica](https://onlinegdb.com/BJz_0auXU)
 **Link de trabajo:** [puntero basico](https://onlinegdb.com/H1BIR8OUI)
+
+### Day 2: marzo 26, 2020 
+
+**Progreso de hoy**: Introduccion HTML basica.
+
+**Pensamientos:** Es algo nuevo, no se ve tan complicado pero los comandos me parecen algo confuso.
+
+**Link de trabajo:** [Link en parrafo](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
+**Link de trabajo:** [Link interno a seccion de pagina](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
