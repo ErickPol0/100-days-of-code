@@ -17,3 +17,11 @@
 
 **Link de trabajo:** [Link en parrafo](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
 **Link de trabajo:** [Link interno a seccion de pagina](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
+
+### Day 3: marzo 27, 2020 
+
+**Progreso de hoy**: Colas y colas circulares en c++.
+
+**Pensamientos:** Algo complicadas de hacer sin apoyarse de nada.
+
+**Link de trabajo:** [cola](https://onlinegdb.com/BJ1wwU2UI)
