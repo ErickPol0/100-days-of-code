@@ -34,9 +34,4 @@
 
 **Link de trabajo:** [cola circular](### Day 3: marzo 27, 2020 
 
-**Progreso de hoy**: Colas y colas circulares en c++.
-
-**Pensamientos:** Algo complicadas de hacer sin apoyarse de nada.
-
-**Link de trabajo:** [cola](https://onlinegdb.com/BJ1wwU2UI)
 
