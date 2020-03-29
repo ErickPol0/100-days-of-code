@@ -25,3 +25,18 @@
 **Pensamientos:** Algo complicadas de hacer sin apoyarse de nada.
 
 **Link de trabajo:** [cola](https://onlinegdb.com/BJ1wwU2UI)
+
+### Day 4: marzo 28, 2020 
+
+**Progreso de hoy**: Practicas de colas circulares en c++.
+
+**Pensamientos:** Es entretenido a la hora de programarlo, tener que pensar que hacer para que funcione.
+
+**Link de trabajo:** [cola circular](### Day 3: marzo 27, 2020 
+
+**Progreso de hoy**: Colas y colas circulares en c++.
+
+**Pensamientos:** Algo complicadas de hacer sin apoyarse de nada.
+
+**Link de trabajo:** [cola](https://onlinegdb.com/BJ1wwU2UI)
+
