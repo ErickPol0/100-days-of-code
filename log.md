@@ -32,6 +32,6 @@
 
 **Pensamientos:** Es entretenido a la hora de programarlo, tener que pensar que hacer para que funcione.
 
-**Link de trabajo:** [cola circular](### Day 3: marzo 27, 2020 
+**Link de trabajo:** [cola circular](https://onlinegdb.com/ByE3QKT88)
 
 
