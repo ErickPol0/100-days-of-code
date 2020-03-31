@@ -34,4 +34,12 @@
 
 **Link de trabajo:** [cola circular](https://onlinegdb.com/ByE3QKT88)
 
+### Day 5: marzo 30, 2020 
+
+**Progreso de hoy**: estudio en c++.
+
+**Pensamientos:** cada dia avanzo mas.
+
+
+
 
