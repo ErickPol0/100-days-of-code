@@ -40,6 +40,13 @@
 
 **Pensamientos:** cada dia avanzo mas.
 
+Day 6: marzo 31, 2020
+Progreso de hoy: Empece un curso en code academy, practique y entendi algunos comandos basicos.
+
+Pensamientos: Hasta ahorita bastante facil.
+ 
+**Link de trabajo:** [crear tabla](https://repl.it/@ErickP/LatestRashApi)
+
 
 
 
