@@ -40,14 +40,14 @@
 
 **Pensamientos:** cada dia avanzo mas.
 
-Day 6: marzo 31, 2020
+### Day 6: marzo 31, 2020
 Progreso de hoy: Empece un curso en code academy, practique y entendi algunos comandos basicos.
 
 Pensamientos: Hasta ahorita bastante facil.
  
 **Link de trabajo:** [crear tabla](https://repl.it/@ErickP/LatestRashApi)
 
-Day 7: abril 1, 2020
+### Day 7: abril 1, 2020
 Progreso de hoy: Repaso y practica de comandos para modificar una base de datos, y estudio y practica de filtrado de resultados de una consulta en sql.
 
 Pensamientos: Se me olvida la sintaxis de algunos comandos pero confío en que pronto los dominare.
