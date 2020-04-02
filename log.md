@@ -47,6 +47,11 @@ Pensamientos: Hasta ahorita bastante facil.
  
 **Link de trabajo:** [crear tabla](https://repl.it/@ErickP/LatestRashApi)
 
+Day 7: abril 1, 2020
+Progreso de hoy: Repaso y practica de comandos para modificar una base de datos, y estudio y practica de filtrado de resultados de una consulta en sql.
 
+Pensamientos: Se me olvida la sintaxis de algunos comandos pero confío en que pronto los dominare.
+ 
+**Link de trabajo:** Sin link, believe in me.
 
 
