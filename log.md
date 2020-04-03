@@ -54,4 +54,9 @@ Pensamientos: Se me olvida la sintaxis de algunos comandos pero confío en que p
  
 **Link de trabajo:** Sin link, believe in me.
 
+### Day 8: abril 2, 2020
+Progreso de hoy: Repaso y practica de filtrado de resultados de una consulta en sql.
 
+Pensamientos: Se me olvida la sintaxis de algunos comandos pero confío en que pronto los dominare x2.
+
+Link de trabajo: Sin link, believe in me.
