@@ -68,3 +68,17 @@ Pensamientos: El comando de group by parece ser el mas pesado pero confio en que
 
 Link de trabajo: Sin link, believe in me.
 
+### Day 10: abril 4, 2020
+Progreso de hoy: Primer avance en desarrollo de tabla hash, creacion de la funcion hash.
+
+Pensamientos: Me parece que se me va a complicar un poco hacerlo, pero confio en que lo hare. Al irlo haciendo puedo entender porque una tabla de hash es mas practico.
+
+**Link de trabajo:** [tabla hash](https://onlinegdb.com/HynuVdLPI)
+
+### Day 11: abril 5, 2020
+Progreso de hoy: Avance en el curso de data science, hoy segui practicando funciones de agregado en sql.
+
+Pensamientos: Hasta ahorita bastante sencillo.
+
+**Link de trabajo:** NULL
+
