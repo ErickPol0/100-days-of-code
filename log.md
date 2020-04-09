@@ -82,3 +82,9 @@ Pensamientos: Hasta ahorita bastante sencillo.
 
 **Link de trabajo:** NULL
 
+### Day 12: abril 9, 2020
+Progreso de hoy: Avance en el curso de data science, hoy segui practicando funciones de agregado en sql.
+
+Pensamientos: Hasta ahorita bastante sencillo.
+
+**Link de trabajo:** [PRACTICA](https://gist.github.com/2c3faaa96a13d52990b028f62822cde5)
