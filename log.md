@@ -88,3 +88,19 @@ Progreso de hoy: Avance en el curso de data science, hoy segui practicando funci
 Pensamientos: Hasta ahorita bastante sencillo.
 
 **Link de trabajo:** [PRACTICA](https://gist.github.com/2c3faaa96a13d52990b028f62822cde5)
+
+### Day 13: abril 10, 2020
+Progreso de hoy: Avance en el curso de data science, empece a practicar lo basico referente al manejo multiples tablas.
+
+Pensamientos: Algo bastante sencillo aunque suelo tener errores a la hora de referenciar columnas de tablas debido al uso de puntos y giones bajos.
+
+**Link de trabajo:** ya es toda ;v
+
+### Day 14: abril 9, 2020
+Progreso de hoy: Avance en el curso de data science, continuando con el tema de ayer hoy segui practicando el manejo de varias tablas a la vez.
+
+Pensamientos: Hasta ahorita bastante sencillo.
+
+**Link de trabajo:** null
+
+
