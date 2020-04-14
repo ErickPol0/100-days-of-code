@@ -96,11 +96,21 @@ Pensamientos: Algo bastante sencillo aunque suelo tener errores a la hora de ref
 
 **Link de trabajo:** ya es toda ;v
 
-### Day 14: abril 9, 2020
+### Day 14: abril 11, 2020
 Progreso de hoy: Avance en el curso de data science, continuando con el tema de ayer hoy segui practicando el manejo de varias tablas a la vez.
 
 Pensamientos: Hasta ahorita bastante sencillo.
 
 **Link de trabajo:** null
 
+### Day 15: abril 13, 2020
+Progreso de hoy: Avance en el curso de data science, y mas practica en el manejo de varias tablas.
+Pensamientos: Son algo confusos los LEFT JOINS.
 
+**Link de trabajo:** null
+
+### Day 16: abril 14, 2020
+Progreso de hoy: Avance en el curso de data science, mas practica en el manejo de varias tablas e introduccion y uso funnels.
+Pensamientos: Aun no termino de entender que es un funnel.
+
+**Link de trabajo:** null
