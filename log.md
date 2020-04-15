@@ -114,3 +114,9 @@ Progreso de hoy: Avance en el curso de data science, mas practica en el manejo d
 Pensamientos: Aun no termino de entender que es un funnel.
 
 **Link de trabajo:** null
+
+### Day 17: abril 15, 2020
+Progreso de hoy: Avance en el curso de data science, mas practica en el manejo de varias tablas y churn rates.
+Pensamientos: El codigo para desarrollar una consulta de los churn rates puede ser bastante complicado.
+
+**Link de trabajo:** null
