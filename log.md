@@ -118,5 +118,5 @@ Pensamientos: Aun no termino de entender que es un funnel.
 ### Day 17: abril 15, 2020
 Progreso de hoy: Avance en el curso de data science, mas practica en el manejo de varias tablas y churn rates.
 Pensamientos: El codigo para desarrollar una consulta de los churn rates puede ser bastante complicado.
-
+Tambien practique un poco de c++ y los algoritmos de ordenacion, empece con el de incercion.
 **Link de trabajo:** null
