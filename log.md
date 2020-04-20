@@ -120,3 +120,20 @@ Progreso de hoy: Avance en el curso de data science, mas practica en el manejo d
 Pensamientos: El codigo para desarrollar una consulta de los churn rates puede ser bastante complicado.
 Tambien practique un poco de c++ y los algoritmos de ordenacion, empece con el de incercion.
 **Link de trabajo:** null
+
+### Day 18: abril 16, 2020
+Progreso de hoy: Avance en el curso de data science, mas practica en el manejo de varias tablas y churn rates.
+Pensamientos: Sigo pensando que es algo complejo calcular el churn rate.
+**Link de trabajo:** null
+
+### Day 19: abril 18, 2020
+Progreso de hoy: Avance en el curso de data science, multi touch attribution.
+Pensamientos: Bastante sencillo a diferencia de los churn rates.
+**Link de trabajo:** null
+
+### Day 20: abril 20, 2020
+Progreso de hoy: Avance en el curso de data science y continuando con el tema demulti touch attribution.
+Pensamientos: Easy.
+**Link de trabajo:** null
+
+
