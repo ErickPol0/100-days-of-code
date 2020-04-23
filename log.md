@@ -136,4 +136,12 @@ Progreso de hoy: Avance en el curso de data science y continuando con el tema de
 Pensamientos: Easy.
 **Link de trabajo:** null
 
+### Day 21: abril 22, 2020
+Progreso de hoy: Desarrollo para hash table.
+Pensamientos: Lo complicado son las impreiones.
+**Link de trabajo:** null
 
+### Day 22: abril 23, 2020
+Progreso de hoy: Cracion de tabla de hash, diccionario.
+Pensamientos: El envio de los strings coomo parametros no es como los hubiera querido hacer, pero no se me ocurrio otra cosa. Hasta ahorita este ha sido uno de los codigos mas complicados que he tenido que crear, y me sientogenial porque logre hacerlo.
+**Link de trabajo:** [dictionary](https://onlinegdb.com/B1NgMiJY8)
