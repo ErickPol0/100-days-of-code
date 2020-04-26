@@ -145,3 +145,8 @@ Pensamientos: Lo complicado son las impreiones.
 Progreso de hoy: Cracion de tabla de hash, diccionario.
 Pensamientos: El envio de los strings coomo parametros no es como los hubiera querido hacer, pero no se me ocurrio otra cosa. Hasta ahorita este ha sido uno de los codigos mas complicados que he tenido que crear, y me sientogenial porque logre hacerlo.
 **Link de trabajo:** [dictionary](https://onlinegdb.com/B1NgMiJY8)
+
+### Day 23: abril 26, 2020
+Progreso de hoy: Avance en el curso de data science, intrduccion a python.
+Pensamientos: Emocionado porque siempre quise aprender python.
+**Link de trabajo:** Null
