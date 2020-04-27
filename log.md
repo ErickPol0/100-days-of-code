@@ -151,7 +151,7 @@ Progreso de hoy: Avance en el curso de data science, intrduccion a python.
 Pensamientos: Emocionado porque siempre quise aprender python.
 **Link de trabajo:** Null
 
-### Day 23: abril 26, 2020
+### Day 24: abril 27, 2020
 Progreso de hoy: Avance en el curso de data science, hoy practique con funciones, sus parametros y demas.
 Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguajes python parece ser bastante menos complejo.
 **Link de trabajo:** Null
