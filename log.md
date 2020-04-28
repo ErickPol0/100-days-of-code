@@ -152,6 +152,13 @@ Pensamientos: Emocionado porque siempre quise aprender python.
 **Link de trabajo:** Null
 
 ### Day 24: abril 27, 2020
-Progreso de hoy: Avance en el curso de data science, hoy practique con funciones, sus parametros y demas.
+Progreso de hoy: Avance en el curso de data science con el enfoque a python hoy practique con funciones, sus parametros y demas.
 Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguajes python parece ser bastante menos complejo.
 **Link de trabajo:** Null
+
+### Day 25: abril 28, 2020
+Progreso de hoy: Avance en el curso de data science sigo enfocado en python practicando con funciones y demas, ademas estuve probando distintas maneras de hacer outputs, inputs y como funcionan los operadores logicos
+Pensamientos: Sigo estando acostumbrado a la forma de programar en c++, viendo python aveces no puedo creer que ciertas cosas funcionen lo cual me confunde.
+**Link de trabajo:** [operadores logicos](https://onlinegdb.com/SkUinVHtL)
+[outputs](https://onlinegdb.com/rkorkSHKU)
+[inputs](https://onlinegdb.com/SJtKbHrKU)
