@@ -159,6 +159,7 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 ### Day 25: abril 28, 2020
 **Progreso de hoy**: Avance en el curso de data science sigo enfocado en python practicando con funciones y demas, ademas estuve probando distintas maneras de hacer outputs, inputs y como funcionan los operadores logicos
 **Pensamientos**: Sigo estando acostumbrado a la forma de programar en c++, viendo python aveces no puedo creer que ciertas cosas funcionen lo cual me confunde.
-**Link de trabajo:** [operadores logicos](https://onlinegdb.com/SkUinVHtL) 
-**Link de trabajo:**[outputs](https://onlinegdb.com/rkorkSHKU)
-**Link de trabajo:**[inputs](https://onlinegdb.com/SJtKbHrKU)
+
+**Link de trabajo: ** [operadores logicos](https://onlinegdb.com/SkUinVHtL) 
+**Link de trabajo: ** [outputs](https://onlinegdb.com/rkorkSHKU)
+**Link de trabajo: ** [inputs](https://onlinegdb.com/SJtKbHrKU)
