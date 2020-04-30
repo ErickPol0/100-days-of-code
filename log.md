@@ -163,3 +163,9 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 **Link de trabajo:** [operadores logicos](https://onlinegdb.com/SkUinVHtL) 
 **Link de trabajo:** [outputs](https://onlinegdb.com/rkorkSHKU)
 **Link de trabajo:** [inputs](https://onlinegdb.com/SJtKbHrKU)
+
+### Day 26: abril 30, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python practicando con funciones y demas, hoy el enfoque fue hacia los condicionales if else.
+**Pensamientos**: Todo bien
+
+**Link de trabajo:** Null
