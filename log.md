@@ -181,3 +181,9 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 **Pensamientos**: Python es muy sencillo
 
 **Link de trabajo:** [union de lista](https://onlinegdb.com/SyUcZsoK8)
+
+### Day 29: mayo 03, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy el enfoque fue como filtrar listas, contar el numero de sus elementos o elementos especificos, acomodo de sus elemtos mediante funciones. 
+**Pensamientos**: Python es muy sencillo
+
+**Link de trabajo:** NULL
