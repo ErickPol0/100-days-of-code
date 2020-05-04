@@ -187,3 +187,9 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 **Pensamientos**: Python es muy sencillo
 
 **Link de trabajo:** NULL
+
+### Day 30: mayo 04, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy practique con los ciclos for-in y while
+**Pensamientos**: Python es muy sencillo
+
+**Link de trabajo:** [simple ciclo for](https://onlinegdb.com/HysQ0RTtI)
