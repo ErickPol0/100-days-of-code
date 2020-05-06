@@ -193,3 +193,10 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 **Pensamientos**: Python es muy sencillo
 
 **Link de trabajo:** [ciclo for simple](https://onlinegdb.com/HysQ0RTtI)
+
+### Day 31: mayo 05, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy apredendi y cheque los tuples ademas puse a prueba un poco de List comprehension. Tambien programe un rato por practica.
+**Pensamientos**: Python es muy sencillo
+
+**Link de trabajo:** [num par](https://onlinegdb.com/HyGWoFk98)
+
