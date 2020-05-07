@@ -208,5 +208,11 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 
 **Link de trabajo:** [dataframes](https://onlinegdb.com/SJTE3e-98)
 
+### Day 33: mayo 07, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy continue viendo acerca de los dataframes con pandas
+aprendi a usar ya algunas funciones nuevas
+**Pensamientos**: Python es muy sencillo
+
+**Link de trabajo:** [dataframes(actualizado)](https://onlinegdb.com/SJTE3e-98)
 
 
