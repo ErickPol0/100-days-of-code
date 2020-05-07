@@ -195,8 +195,18 @@ Pensamientos: Algo confuso de como funciona pues a comparacion de otros lenguaje
 **Link de trabajo:** [ciclo for simple](https://onlinegdb.com/HysQ0RTtI)
 
 ### Day 31: mayo 05, 2020
-**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy apredendi y cheque los tuples ademas puse a prueba un poco de List comprehension. Tambien programe un rato por practica.
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy aprendi y cheque los tuples ademas puse a prueba un poco de List comprehension. Tambien programe un rato por practica.
 **Pensamientos**: Python es muy sencillo
 
 **Link de trabajo:** [num par](https://onlinegdb.com/HyGWoFk98)
+
+### Day 32: mayo 06, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, hoy apredendi lo que son las funciones lambda y como implementarlos al codigo, ademas tuve mi primer acercamiento a la introuduccion de pandas para la creacion de data frames. 
+**Pensamientos**: Python es muy sencillo
+
+**Link de trabajo:** [mix of lambda functions](https://onlinegdb.com/BJIURyb5L)
+
+**Link de trabajo:** [dataframes](https://onlinegdb.com/SJTE3e-98)
+
+
 
