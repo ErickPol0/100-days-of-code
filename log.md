@@ -215,4 +215,10 @@ aprendi a usar ya algunas funciones nuevas
 
 **Link de trabajo:** [dataframes(actualizado)](https://onlinegdb.com/SJTE3e-98)
 
+### Day 34: mayo 08, 2020
+**Progreso de hoy**: Avance en el curso de data science sigo enfocado en python, vi como hacer consultas  en los dataframes.
+**Pensamientos**: Python es muy sencillo
+
+**Link de trabajo:** NULL
+
 
