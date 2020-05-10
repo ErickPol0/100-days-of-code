@@ -221,4 +221,16 @@ aprendi a usar ya algunas funciones nuevas
 
 **Link de trabajo:** NULL
 
+### Day 35: mayo 09, 2020
+**Progreso de hoy**: Comienzo de desarrollo de un arbol binario en c++.
+**Pensamientos**: Algo complicado, estoy viendo como se va a aplicar la recursividad. 
+
+**Link de trabajo:** [arbol incompleto](https://onlinegdb.com/rkJTnAVcU)
+
+### Day 36: mayo 10, 2020
+**Progreso de hoy**: Avance en el curso de data science, creacion de columnas con funciones lambda.
+**Pensamientos**: Algo complicado acordarse de todas las funciones, pero lo importante es entender como funcionan. 
+
+**Link de trabajo:** NULL
+
 
