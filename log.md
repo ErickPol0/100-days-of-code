@@ -233,4 +233,10 @@ aprendi a usar ya algunas funciones nuevas
 
 **Link de trabajo:** NULL
 
+### Day 38: mayo 12, 2020
+**Progreso de hoy**: Desarrollo de arbol binario.
+**Pensamientos**: En este caso me fue complicado hacerlo porque no sabia como obtener el tamaño de los sub_arreglos antes de declararlos.
+
+**Link de trabajo:** [arbol binario](https://onlinegdb.com/HyKMph_qU)
+
 
