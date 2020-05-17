@@ -233,10 +233,27 @@ aprendi a usar ya algunas funciones nuevas
 
 **Link de trabajo:** NULL
 
-### Day 38: mayo 12, 2020
+### Day 37: mayo 12, 2020
 **Progreso de hoy**: Desarrollo de arbol binario.
 **Pensamientos**: En este caso me fue complicado hacerlo porque no sabia como obtener el tamaño de los sub_arreglos antes de declararlos.
 
 **Link de trabajo:** [arbol binario](https://onlinegdb.com/HyKMph_qU)
 
+### Day 39: mayo 13, 2020
+**Progreso de hoy**: Avance en el curso de data science, practique modicando dataframes.
+**Pensamientos**: Se me olvida un poco como crear columnas de con funciones lambda, seguire practicando
+
+**Link de trabajo:** NULL
+
+### Day 40: mayo 14, 2020
+**Progreso de hoy**: Inicio de desarrollo de un arbol binario de busqueda, tengo la funcion de insertar pero de momento no inserta el primer nodo o sea la raiz.
+**Pensamientos**: No entiendo porque no funciona, lo solucionare mañana
+
+**Link de trabajo:** NULL
+
+### Day 41: mayo 15, 2020
+**Progreso de hoy**: Desarrollo completo de un arbol binario de busqueda. Solucion del problema de ayer y agregado de funciones faltantes para el cumplimiento de la tarea.
+**Pensamientos**: Es interesante ver como entra en recursividad. 
+
+**Link de trabajo:** [arbol binario de busqueda](https://onlinegdb.com/SJ2K6JaqI)
 
